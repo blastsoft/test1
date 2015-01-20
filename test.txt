@@ -1,3 +1,3 @@
-Plik tekstowy. Zmiana 2
+Plik tekstowy. Zmiana 4
 Dodałem nową linię 2
- 
+Dodałem trzecią linię
