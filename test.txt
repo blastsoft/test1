@@ -1,3 +1,4 @@
 ﻿Plik tekstowy. Zmiana 5
 Dodałem nową linię 2
 linia kolejna
+dodałem coś na windowsie
