@@ -4,3 +4,4 @@ Dodałem linię 3
 linia kolejna
 dodałem coś na windowsie
 dewelop
+release wersja 1
